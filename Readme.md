@@ -25,5 +25,5 @@ Each time the snake eats an apple, it grows longer. The goal is to eat as many a
    and Enjoy!!
 
 <p align="center">
-  <img src="screenshot.png" width="500" />
+  <img src="snake.png" width="500" />
 </p>
