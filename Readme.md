@@ -24,4 +24,6 @@ Each time the snake eats an apple, it grows longer. The goal is to eat as many a
 2. From the project root directory, compile the source files:
    and Enjoy!!
 
-![Snake Game Screenshot](snake.png)
+<p align="center">
+  <img src="screenshot.png" width="500" />
+</p>
